@@ -1,0 +1,4734 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>3h Precipitation</VAR>
+<UNIT>mm/3h</UNIT>
+<PERIOD>20220816-20220831</PERIOD>
+ <STATION>
+ <MEAN_OBS>  0.307339549     </MEAN_OBS>
+ <STDV_OBS>   2.79417491     </STDV_OBS>
+ <EXP>
+ <ID>       26422 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.485600084     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.34630179     </BIAS>
+ <RMSE>  0.136602104     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26422 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.00467777     </BIAS>
+ <RMSE>  0.148439288     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26422 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   2.90743160     </BIAS>
+ <RMSE>  0.119301550     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.137155950     </MEAN_OBS>
+ <STDV_OBS>   1.56654477     </STDV_OBS>
+ <EXP>
+ <ID>       26229 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.238196090     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   2.75826192     </BIAS>
+ <RMSE>  0.498187959     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26229 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.23429739     </BIAS>
+ <RMSE>  0.664499760     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26229 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.35979056     </BIAS>
+ <RMSE>  0.545334280     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.143925235     </MEAN_OBS>
+ <STDV_OBS>   2.60377884     </STDV_OBS>
+ <EXP>
+ <ID>       26346 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  0.408812940     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.701751173     </BIAS>
+ <RMSE>  0.750556469     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26346 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.02874970     </BIAS>
+ <RMSE>  0.388645738     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26346 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   2.46867847     </BIAS>
+ <RMSE>  0.313529819     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.181308419     </MEAN_OBS>
+ <STDV_OBS>  0.742924511     </STDV_OBS>
+ <EXP>
+ <ID>       26429 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  0.157585979     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.31142819     </BIAS>
+ <RMSE>  0.117142588     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26429 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.23518360     </BIAS>
+ <RMSE>  0.136189699     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26429 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.657189608     </BIAS>
+ <RMSE>  0.522996128     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.145794407     </MEAN_OBS>
+ <STDV_OBS>  0.102764033     </STDV_OBS>
+ <EXP>
+ <ID>       26544 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   1.80279296E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.02234185     </BIAS>
+ <RMSE>   2.18628719E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26544 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.10632527     </BIAS>
+ <RMSE>  -7.99494330E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26544 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.955947101     </BIAS>
+ <RMSE>  -8.16223864E-03 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.255963326     </MEAN_OBS>
+ <STDV_OBS>   1.28945768     </STDV_OBS>
+ <EXP>
+ <ID>       26424 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.282119334     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.11226332     </BIAS>
+ <RMSE>  0.388746440     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26424 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.951508224     </BIAS>
+ <RMSE>  0.338151574     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26424 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.16302359     </BIAS>
+ <RMSE>  0.478286058     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.130275235     </MEAN_OBS>
+ <STDV_OBS>   2.12100554     </STDV_OBS>
+ <EXP>
+ <ID>       26348 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.340962261     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.794112325     </BIAS>
+ <RMSE>  0.213570386     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26348 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.03924918     </BIAS>
+ <RMSE>   9.70828310E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26348 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   2.14026833     </BIAS>
+ <RMSE>   7.15381056E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.355045944     </MEAN_OBS>
+ <STDV_OBS>  0.811819255     </STDV_OBS>
+ <EXP>
+ <ID>       26425 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.240529388     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.66786253     </BIAS>
+ <RMSE>  0.225958869     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26425 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.63107502     </BIAS>
+ <RMSE>  0.226692364     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26425 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.23596108     </BIAS>
+ <RMSE>  0.486566037     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.474299014     </MEAN_OBS>
+ <STDV_OBS>  0.977984548     </STDV_OBS>
+ <EXP>
+ <ID>       26313 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  0.232204765     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.49341762     </BIAS>
+ <RMSE>  0.806563914     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26313 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.19434226     </BIAS>
+ <RMSE>  0.822463393     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26313 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.47903860     </BIAS>
+ <RMSE>  0.760945857     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.171559632     </MEAN_OBS>
+ <STDV_OBS>  0.872114778     </STDV_OBS>
+ <EXP>
+ <ID>       26406 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.247525617     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.613472044     </BIAS>
+ <RMSE>  0.590113461     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26406 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.850446463     </BIAS>
+ <RMSE>  0.431292653     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26406 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.584476829     </BIAS>
+ <RMSE>  0.742705464     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.184112117     </MEAN_OBS>
+ <STDV_OBS>   1.56551659     </STDV_OBS>
+ <EXP>
+ <ID>       26324 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  0.353643239     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.984014392     </BIAS>
+ <RMSE>  0.598623931     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26324 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.30295300     </BIAS>
+ <RMSE>  0.415115416     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26324 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.48098528     </BIAS>
+ <RMSE>  0.391770571     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.437614679     </MEAN_OBS>
+ <STDV_OBS>   2.28288651     </STDV_OBS>
+ <EXP>
+ <ID>       26403 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.681258380     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   2.12342095     </BIAS>
+ <RMSE>  0.289751649     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26403 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.45301557     </BIAS>
+ <RMSE>  0.182986692     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26403 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   2.52908325     </BIAS>
+ <RMSE>  0.284406215     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.302293569     </MEAN_OBS>
+ <STDV_OBS>   3.57365680     </STDV_OBS>
+ <EXP>
+ <ID>       26335 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.535198689     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.15772140     </BIAS>
+ <RMSE>  0.813394785     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26335 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.48680449     </BIAS>
+ <RMSE>  0.571328878     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26335 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   2.24965692     </BIAS>
+ <RMSE>  0.887512922     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.42201800E-02 </MEAN_OBS>
+ <STDV_OBS>  0.236799389     </STDV_OBS>
+ <EXP>
+ <ID>       26446 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   4.94102314E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.259741098     </BIAS>
+ <RMSE>  -3.08332033E-04 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26446 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.523999333     </BIAS>
+ <RMSE>  -1.12885190E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26446 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.243965954     </BIAS>
+ <RMSE>   7.79860169E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.267431200     </MEAN_OBS>
+ <STDV_OBS>  0.358638644     </STDV_OBS>
+ <EXP>
+ <ID>       26238 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   8.02289322E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.79028201     </BIAS>
+ <RMSE>  0.248760566     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26238 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.15896964     </BIAS>
+ <RMSE>   3.61680053E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26238 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.41598666     </BIAS>
+ <RMSE>  0.221564591     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.44954157E-02 </MEAN_OBS>
+ <STDV_OBS>   2.07955623     </STDV_OBS>
+ <EXP>
+ <ID>       26416 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.457048297     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   2.12937164     </BIAS>
+ <RMSE>  0.342857689     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26416 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.04402661     </BIAS>
+ <RMSE>  0.541800976     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26416 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.97769439     </BIAS>
+ <RMSE>  0.337246925     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.151869148     </MEAN_OBS>
+ <STDV_OBS>   1.40334713     </STDV_OBS>
+ <EXP>
+ <ID>       26326 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  0.301404506     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.85423255     </BIAS>
+ <RMSE>  0.109081239     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26326 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.98496473     </BIAS>
+ <RMSE>   7.69438893E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26326 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.44443965     </BIAS>
+ <RMSE>  0.126348644     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.15596315E-02 </MEAN_OBS>
+ <STDV_OBS>  0.357509136     </STDV_OBS>
+ <EXP>
+ <ID>       26435 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.97119534E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.164954096     </BIAS>
+ <RMSE>  -4.80350442E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26435 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.05744314     </BIAS>
+ <RMSE>  -5.06633557E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26435 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.368098557     </BIAS>
+ <RMSE>  -5.56970686E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.295794368     </MEAN_OBS>
+ <STDV_OBS>   1.73362041     </STDV_OBS>
+ <EXP>
+ <ID>       26318 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  0.364594162     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.59756958     </BIAS>
+ <RMSE>  0.349027783     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26318 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.19686079     </BIAS>
+ <RMSE>  0.688304186     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26318 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.863527656     </BIAS>
+ <RMSE>  0.870218694     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.338532001     </MEAN_OBS>
+ <STDV_OBS>   1.41071737     </STDV_OBS>
+ <EXP>
+ <ID>       26314 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.464025557     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.94185579     </BIAS>
+ <RMSE>  0.547014177     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26314 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.19189835     </BIAS>
+ <RMSE>  0.651136637     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26314 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.38780510     </BIAS>
+ <RMSE>  0.398448557     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.121100903     </MEAN_OBS>
+ <STDV_OBS>  0.320244521     </STDV_OBS>
+ <EXP>
+ <ID>       26436 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   4.99215722E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.657467067     </BIAS>
+ <RMSE>  0.113443777     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26436 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.818844140     </BIAS>
+ <RMSE>  0.161133319     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26436 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.548070610     </BIAS>
+ <RMSE>  0.218138278     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.196261659     </MEAN_OBS>
+ <STDV_OBS>   2.03704929     </STDV_OBS>
+ <EXP>
+ <ID>       26339 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  0.288633436     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.04388773     </BIAS>
+ <RMSE>  0.570003867     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26339 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.60190713     </BIAS>
+ <RMSE>  0.646610379     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26339 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.62554610     </BIAS>
+ <RMSE>  0.622044921     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.110091731     </MEAN_OBS>
+ <STDV_OBS>  0.676414013     </STDV_OBS>
+ <EXP>
+ <ID>       26503 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.179588273     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.660508156     </BIAS>
+ <RMSE>  0.576270044     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26503 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.628001690     </BIAS>
+ <RMSE>  0.676838636     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26503 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.558681905     </BIAS>
+ <RMSE>  0.574032366     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.256880730     </MEAN_OBS>
+ <STDV_OBS>  0.281357318     </STDV_OBS>
+ <EXP>
+ <ID>       26447 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   5.59567139E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.835663438     </BIAS>
+ <RMSE>  0.446109205     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26447 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.29516327     </BIAS>
+ <RMSE>  0.660316586     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26447 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.734655917     </BIAS>
+ <RMSE>  0.781961203     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.111926600     </MEAN_OBS>
+ <STDV_OBS>  0.390798867     </STDV_OBS>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   5.76910637E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.401886791     </BIAS>
+ <RMSE>  0.315542936     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.447149187     </BIAS>
+ <RMSE>  0.270955473     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.465078622     </BIAS>
+ <RMSE>  0.340566188     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.209174290     </MEAN_OBS>
+ <STDV_OBS>  0.911291659     </STDV_OBS>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.122146890     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.809297144     </BIAS>
+ <RMSE>  0.656806529     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.899856567     </BIAS>
+ <RMSE>  0.545107663     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.789676309     </BIAS>
+ <RMSE>  0.694257677     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.172477067     </MEAN_OBS>
+ <STDV_OBS>   5.35219163E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   8.96554999E-03 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.903782904     </BIAS>
+ <RMSE>   4.32608649E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.786099553     </BIAS>
+ <RMSE>   7.40698166E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.617339134     </BIAS>
+ <RMSE>  0.297742188     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.125238106     </MEAN_OBS>
+ <STDV_OBS>  0.354416758     </STDV_OBS>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   5.83447069E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.601978302     </BIAS>
+ <RMSE>  0.640264690     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.578858733     </BIAS>
+ <RMSE>  0.433448136     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.363884628     </BIAS>
+ <RMSE>  0.682084262     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.42201975E-02 </MEAN_OBS>
+ <STDV_OBS>  0.660982072     </STDV_OBS>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.123394854     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.654648125     </BIAS>
+ <RMSE>  -2.45965756E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.11329138     </BIAS>
+ <RMSE>  -2.43377369E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.733602405     </BIAS>
+ <RMSE>  -1.71968229E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   5.48761617E-03 </STDV_OBS>
+ <EXP>
+ <ID>       10015 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   1.16170687E-03 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   2.67968001E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10015 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.50644132E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10015 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   5.47477929E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.48623842E-02 </MEAN_OBS>
+ <STDV_OBS>   2.84160338E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10020 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   3.01928096E-03 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.662516057     </BIAS>
+ <RMSE>  0.596711636     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10020 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.764628649     </BIAS>
+ <RMSE>  0.672526002     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10020 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.235964283     </BIAS>
+ <RMSE>  0.701845288     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.17431153E-03 </MEAN_OBS>
+ <STDV_OBS>  0.956476986     </STDV_OBS>
+ <EXP>
+ <ID>       10035 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   9.78349224E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   3.23005581     </BIAS>
+ <RMSE>  0.140752509     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10035 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.49149919E-02 </BIAS>
+ <RMSE>   5.86806946E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10035 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.949804187     </BIAS>
+ <RMSE>  0.109930702     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.32110184E-02 </MEAN_OBS>
+ <STDV_OBS>  0.365330189     </STDV_OBS>
+ <EXP>
+ <ID>       10055 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.60346746E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.643298626     </BIAS>
+ <RMSE>  0.125634626     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10055 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.54111552     </BIAS>
+ <RMSE>  0.383772224     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10055 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.463687807     </BIAS>
+ <RMSE>  0.128279805     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.77064140E-02 </MEAN_OBS>
+ <STDV_OBS>   1.24521303     </STDV_OBS>
+ <EXP>
+ <ID>       10147 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   9.48361903E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.372980177     </BIAS>
+ <RMSE>  0.111158274     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10147 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.256887585     </BIAS>
+ <RMSE>  0.548774183     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10147 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.26772583     </BIAS>
+ <RMSE>   3.46899070E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.07339400E-02 </MEAN_OBS>
+ <STDV_OBS>  0.837934792     </STDV_OBS>
+ <EXP>
+ <ID>       10162 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.209517956     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   2.23678088     </BIAS>
+ <RMSE>  0.166261449     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10162 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.66531479     </BIAS>
+ <RMSE>   4.80116494E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10162 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.835081697     </BIAS>
+ <RMSE>  0.177040100     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.292990625     </MEAN_OBS>
+ <STDV_OBS>   6.14425316E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10184 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   1.51781822E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.25438404     </BIAS>
+ <RMSE>   7.93258399E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10184 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.24454892     </BIAS>
+ <RMSE>   5.53699546E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10184 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.20387542     </BIAS>
+ <RMSE>  0.270464420     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.78899065E-02 </MEAN_OBS>
+ <STDV_OBS>  0.372581065     </STDV_OBS>
+ <EXP>
+ <ID>       10200 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   3.72077338E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.445600927     </BIAS>
+ <RMSE>   5.97853679E-03 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10200 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.350222349     </BIAS>
+ <RMSE>   6.63164183E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10200 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.504936159     </BIAS>
+ <RMSE>   1.38206780E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.83486228E-03 </MEAN_OBS>
+ <STDV_OBS>  0.551431954     </STDV_OBS>
+ <EXP>
+ <ID>       10224 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.54160678E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   2.28302383     </BIAS>
+ <RMSE>   3.90231647E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10224 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.370517403     </BIAS>
+ <RMSE>  -1.22399069E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10224 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.550547421     </BIAS>
+ <RMSE>  -1.62560102E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.15887728E-02 </MEAN_OBS>
+ <STDV_OBS>   2.30466890     </STDV_OBS>
+ <EXP>
+ <ID>       10361 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  0.266597092     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.923743129     </BIAS>
+ <RMSE>  0.559716225     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10361 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.895960808     </BIAS>
+ <RMSE>  0.212358668     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10361 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   2.26002502     </BIAS>
+ <RMSE>  0.184873179     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.175229371     </MEAN_OBS>
+ <STDV_OBS>   2.47879481     </STDV_OBS>
+ <EXP>
+ <ID>       10393 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.272226065     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   3.31426263     </BIAS>
+ <RMSE>  0.199041143     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10393 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.689539313     </BIAS>
+ <RMSE>  0.194421172     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10393 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   2.41872430     </BIAS>
+ <RMSE>  0.215949669     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.37614673E-02 </MEAN_OBS>
+ <STDV_OBS>   8.39058757E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10400 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   1.22745400E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.389114708     </BIAS>
+ <RMSE>   7.94435963E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10400 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.381726682     </BIAS>
+ <RMSE>   5.02938144E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10400 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.119947404     </BIAS>
+ <RMSE>  0.219284058     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.68224275E-02 </MEAN_OBS>
+ <STDV_OBS>  0.213263407     </STDV_OBS>
+ <EXP>
+ <ID>       10113 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   2.59906761E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.354528069     </BIAS>
+ <RMSE>  -1.12195723E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10113 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.503710032     </BIAS>
+ <RMSE>  -1.18630789E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10113 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.240820736     </BIAS>
+ <RMSE>  -1.85383856E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.143119261     </MEAN_OBS>
+ <STDV_OBS>  0.634269655     </STDV_OBS>
+ <EXP>
+ <ID>       10131 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   5.76934777E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.737607837     </BIAS>
+ <RMSE>  0.607122600     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10131 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.670988321     </BIAS>
+ <RMSE>  0.636256158     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10131 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.674332976     </BIAS>
+ <RMSE>  0.626336217     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.60550445E-02 </MEAN_OBS>
+ <STDV_OBS>   1.39644194     </STDV_OBS>
+ <EXP>
+ <ID>       10170 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.310162932     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.757132888     </BIAS>
+ <RMSE>  0.216527790     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10170 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.911056399     </BIAS>
+ <RMSE>  0.116721950     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10170 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.36103284     </BIAS>
+ <RMSE>  0.223832026     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.161467865     </MEAN_OBS>
+ <STDV_OBS>   1.19477344     </STDV_OBS>
+ <EXP>
+ <ID>       10253 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.206200093     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   2.14260221     </BIAS>
+ <RMSE>   4.11364483E-03 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10253 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.88885736     </BIAS>
+ <RMSE>  0.712727189     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10253 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.36821651     </BIAS>
+ <RMSE>  0.273995638     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.126605511     </MEAN_OBS>
+ <STDV_OBS>   3.21985292     </STDV_OBS>
+ <EXP>
+ <ID>       10264 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.633270144     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   3.18653035     </BIAS>
+ <RMSE>   6.63226619E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10264 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.87240815     </BIAS>
+ <RMSE>   6.13722205E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10264 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   3.25238061     </BIAS>
+ <RMSE>   2.27505323E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.96330240E-02 </MEAN_OBS>
+ <STDV_OBS>  0.161134690     </STDV_OBS>
+ <EXP>
+ <ID>       10291 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   3.68516594E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.229971066     </BIAS>
+ <RMSE>  0.141003057     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10291 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.40584970     </BIAS>
+ <RMSE>   8.49046037E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10291 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.220434070     </BIAS>
+ <RMSE>  0.391245782     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.109174311     </MEAN_OBS>
+ <STDV_OBS>  0.383286387     </STDV_OBS>
+ <EXP>
+ <ID>       10315 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   4.73077856E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.378390610     </BIAS>
+ <RMSE>  0.934205592     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10315 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.22059619     </BIAS>
+ <RMSE>   6.80918396E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10315 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.00865734     </BIAS>
+ <RMSE>   9.13033783E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.385882318     </MEAN_OBS>
+ <STDV_OBS>   3.38218570     </STDV_OBS>
+ <EXP>
+ <ID>       10384 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         170 </NUM>
+ <MEAN>  0.321182549     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   2.53216600     </BIAS>
+ <RMSE>  -9.31560807E-03 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10384 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         170 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.72202885     </BIAS>
+ <RMSE>   6.50338456E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10384 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         170 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   3.67066312     </BIAS>
+ <RMSE>   2.42930241E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.00917416E-02 </MEAN_OBS>
+ <STDV_OBS>   9.20731500E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10410 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   1.31953498E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   5.88654988E-02 </BIAS>
+ <RMSE>  0.314908415     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10410 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.144915029     </BIAS>
+ <RMSE>   8.49532709E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10410 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   8.40299800E-02 </BIAS>
+ <RMSE>  0.458372474     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.50458720E-03 </MEAN_OBS>
+ <STDV_OBS>  0.668187797     </STDV_OBS>
+ <EXP>
+ <ID>       10430 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   5.61253801E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.15534091     </BIAS>
+ <RMSE>  -1.57947242E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10430 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.715784729     </BIAS>
+ <RMSE>  -1.50007624E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10430 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.668330610     </BIAS>
+ <RMSE>  -1.15101859E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.24770501E-02 </MEAN_OBS>
+ <STDV_OBS>   2.21656728     </STDV_OBS>
+ <EXP>
+ <ID>       10453 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.380355924     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.70938182     </BIAS>
+ <RMSE>  0.220936209     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10453 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.48081160     </BIAS>
+ <RMSE>  0.199527755     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10453 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   2.18782902     </BIAS>
+ <RMSE>  0.200931966     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.447706431     </MEAN_OBS>
+ <STDV_OBS>   2.12927604     </STDV_OBS>
+ <EXP>
+ <ID>       10496 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.264128238     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   2.50470805     </BIAS>
+ <RMSE>  0.431195378     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10496 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.92537200     </BIAS>
+ <RMSE>  0.272015721     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10496 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   2.81563759     </BIAS>
+ <RMSE>   4.65843789E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.114018686     </MEAN_OBS>
+ <STDV_OBS>  0.196619555     </STDV_OBS>
+ <EXP>
+ <ID>       10022 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   1.96660161E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.05172670     </BIAS>
+ <RMSE>   3.36444043E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10022 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.776976705     </BIAS>
+ <RMSE>  0.399862468     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10022 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.831708431     </BIAS>
+ <RMSE>   9.02569070E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.61682216E-02 </MEAN_OBS>
+ <STDV_OBS>   1.04117858     </STDV_OBS>
+ <EXP>
+ <ID>       10028 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  0.104313850     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.841518641     </BIAS>
+ <RMSE>  0.673197031     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10028 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.402561456     </BIAS>
+ <RMSE>  0.576056778     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10028 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.932795584     </BIAS>
+ <RMSE>  0.691197157     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.75229383E-02 </MEAN_OBS>
+ <STDV_OBS>   1.10768449     </STDV_OBS>
+ <EXP>
+ <ID>       10042 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.114075340     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.386009276     </BIAS>
+ <RMSE>  0.673734069     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10042 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.127315655     </BIAS>
+ <RMSE>  0.642786860     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10042 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.00489664     </BIAS>
+ <RMSE>  0.653795958     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.364220232     </MEAN_OBS>
+ <STDV_OBS>   9.85971540E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10093 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   2.10461244E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.57448781     </BIAS>
+ <RMSE>  -2.49163900E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10093 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.53180206     </BIAS>
+ <RMSE>  -1.01592923E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10093 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.50812030     </BIAS>
+ <RMSE>   1.64859220E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.48623805E-02 </MEAN_OBS>
+ <STDV_OBS>  0.517318189     </STDV_OBS>
+ <EXP>
+ <ID>       10097 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   9.04844403E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.672638357     </BIAS>
+ <RMSE>  0.125671759     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10097 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.643379807     </BIAS>
+ <RMSE>  -2.08023861E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10097 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.509368539     </BIAS>
+ <RMSE>  0.192449048     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.86915882E-03 </MEAN_OBS>
+ <STDV_OBS>   6.50280416E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10129 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   8.05663876E-03 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.288875431     </BIAS>
+ <RMSE>   8.55618417E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10129 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.330547303     </BIAS>
+ <RMSE>   3.25633213E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10129 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   6.40759617E-02 </BIAS>
+ <RMSE>  0.163082153     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.78899065E-02 </MEAN_OBS>
+ <STDV_OBS>  0.615955710     </STDV_OBS>
+ <EXP>
+ <ID>       10130 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   7.58690834E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.850165248     </BIAS>
+ <RMSE>  0.705524981     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10130 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.09712553     </BIAS>
+ <RMSE>  0.541515231     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10130 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.337890655     </BIAS>
+ <RMSE>  0.835738719     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.80373823E-03 </MEAN_OBS>
+ <STDV_OBS>  0.136278301     </STDV_OBS>
+ <EXP>
+ <ID>       10139 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   1.71513092E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   2.42345463E-02 </BIAS>
+ <RMSE>  0.250249058     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10139 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.122955136     </BIAS>
+ <RMSE>  0.352200568     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10139 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.132226229     </BIAS>
+ <RMSE>  0.283755332     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.183486223     </MEAN_OBS>
+ <STDV_OBS>  0.315394908     </STDV_OBS>
+ <EXP>
+ <ID>       10142 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   4.63150553E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.25799429     </BIAS>
+ <RMSE>  0.465127021     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10142 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.04382670     </BIAS>
+ <RMSE>  0.697162747     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10142 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.20968270     </BIAS>
+ <RMSE>  0.517244458     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.85321155E-02 </MEAN_OBS>
+ <STDV_OBS>  0.716735423     </STDV_OBS>
+ <EXP>
+ <ID>       10146 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   5.71337678E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.270616174     </BIAS>
+ <RMSE>  0.301051736     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10146 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.238526791     </BIAS>
+ <RMSE>  0.459229410     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10146 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.745275557     </BIAS>
+ <RMSE>   7.29436949E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.125229374     </MEAN_OBS>
+ <STDV_OBS>  0.440178156     </STDV_OBS>
+ <EXP>
+ <ID>       10150 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   4.19070870E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.975581944     </BIAS>
+ <RMSE>  -5.57274837E-03 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10150 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.899366498     </BIAS>
+ <RMSE>   1.48611497E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10150 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.00547516     </BIAS>
+ <RMSE>  -1.25320936E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.222018272     </MEAN_OBS>
+ <STDV_OBS>  0.407328159     </STDV_OBS>
+ <EXP>
+ <ID>       10152 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.90853447E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.26407576     </BIAS>
+ <RMSE>  0.163771391     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10152 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.12814713     </BIAS>
+ <RMSE>  0.375740558     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10152 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.10763919     </BIAS>
+ <RMSE>  0.402542233     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.137155950     </MEAN_OBS>
+ <STDV_OBS>   2.10091376     </STDV_OBS>
+ <EXP>
+ <ID>       10156 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.224607244     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.75316048     </BIAS>
+ <RMSE>  -1.00756651E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10156 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.07597291     </BIAS>
+ <RMSE>   1.00669554E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10156 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   2.22936249     </BIAS>
+ <RMSE>   1.06895650E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.75229346E-02 </MEAN_OBS>
+ <STDV_OBS>  0.938402832     </STDV_OBS>
+ <EXP>
+ <ID>       10161 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.174972683     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.31104970     </BIAS>
+ <RMSE>  0.484131008     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10161 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.67259276     </BIAS>
+ <RMSE>  0.432050794     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10161 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.905034065     </BIAS>
+ <RMSE>  0.400683135     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.111926608     </MEAN_OBS>
+ <STDV_OBS>   4.06393003     </STDV_OBS>
+ <EXP>
+ <ID>       10168 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.575618207     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   3.10213947     </BIAS>
+ <RMSE>  0.318492115     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10168 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.10934782     </BIAS>
+ <RMSE>  0.453059077     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10168 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   3.82208371     </BIAS>
+ <RMSE>  0.505839288     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.208256841     </MEAN_OBS>
+ <STDV_OBS>  0.533532798     </STDV_OBS>
+ <EXP>
+ <ID>       10180 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.115944840     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.13985872     </BIAS>
+ <RMSE>   4.52682190E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10180 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.968025804     </BIAS>
+ <RMSE>   2.31483839E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10180 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.902709663     </BIAS>
+ <RMSE>  0.209534451     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.122935772     </MEAN_OBS>
+ <STDV_OBS>  0.336389780     </STDV_OBS>
+ <EXP>
+ <ID>       10193 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.27247021E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.900382042     </BIAS>
+ <RMSE>   2.75332872E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10193 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.709474266     </BIAS>
+ <RMSE>   6.40684664E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10193 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.632388532     </BIAS>
+ <RMSE>   9.28637534E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.42201863E-03 </MEAN_OBS>
+ <STDV_OBS>   1.26863611     </STDV_OBS>
+ <EXP>
+ <ID>       10210 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   9.53741968E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.728389502     </BIAS>
+ <RMSE>   5.21736108E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10210 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.104882389     </BIAS>
+ <RMSE>   3.97378244E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10210 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.26694012     </BIAS>
+ <RMSE>  -5.17867273E-03 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.50458720E-03 </MEAN_OBS>
+ <STDV_OBS>  0.852870345     </STDV_OBS>
+ <EXP>
+ <ID>       10235 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   9.26080197E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.384492457     </BIAS>
+ <RMSE>   6.12966530E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10235 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.64246428     </BIAS>
+ <RMSE>  0.693095624     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10235 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.850821078     </BIAS>
+ <RMSE>   2.59158593E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.119626172     </MEAN_OBS>
+ <STDV_OBS>  0.157484591     </STDV_OBS>
+ <EXP>
+ <ID>       10249 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   2.74377000E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.721941352     </BIAS>
+ <RMSE>   6.51554763E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10249 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.698032856     </BIAS>
+ <RMSE>  0.120210961     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10249 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.668080628     </BIAS>
+ <RMSE>  0.326455355     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.10091744E-02 </MEAN_OBS>
+ <STDV_OBS>   2.81875706     </STDV_OBS>
+ <EXP>
+ <ID>       10261 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.531751156     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   2.05049205     </BIAS>
+ <RMSE>  0.622292340     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10261 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.59116578     </BIAS>
+ <RMSE>  0.154935077     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10261 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   2.76115227     </BIAS>
+ <RMSE>  0.741182745     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.251376182     </MEAN_OBS>
+ <STDV_OBS>  0.723663330     </STDV_OBS>
+ <EXP>
+ <ID>       10267 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.179683164     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.21316183     </BIAS>
+ <RMSE>  0.108776905     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10267 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.04378009     </BIAS>
+ <RMSE>  -1.01613896E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10267 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.985340714     </BIAS>
+ <RMSE>  0.300972581     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.319626093     </MEAN_OBS>
+ <STDV_OBS>  0.115823209     </STDV_OBS>
+ <EXP>
+ <ID>       10281 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   2.17835065E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.56339824     </BIAS>
+ <RMSE>  -8.76718387E-03 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10281 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.27432823     </BIAS>
+ <RMSE>  0.142068893     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10281 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.26087499     </BIAS>
+ <RMSE>  0.212508991     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.08080658E-02 </MEAN_OBS>
+ <STDV_OBS>  0.666081011     </STDV_OBS>
+ <EXP>
+ <ID>       10282 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         198 </NUM>
+ <MEAN>  0.135186881     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.806423128     </BIAS>
+ <RMSE>   4.93657701E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10282 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         198 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.45817697     </BIAS>
+ <RMSE>   7.26055503E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10282 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         198 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.713610411     </BIAS>
+ <RMSE>  0.126619443     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.82524277E-02 </MEAN_OBS>
+ <STDV_OBS>  0.229291365     </STDV_OBS>
+ <EXP>
+ <ID>       10289 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         206 </NUM>
+ <MEAN>   4.58635502E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.181798130     </BIAS>
+ <RMSE>  0.519419551     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10289 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         206 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.622994900     </BIAS>
+ <RMSE>   9.42533687E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10289 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         206 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.306148916     </BIAS>
+ <RMSE>   3.85007896E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.50458720E-03 </MEAN_OBS>
+ <STDV_OBS>  0.282598734     </STDV_OBS>
+ <EXP>
+ <ID>       10309 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   3.88405100E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.468787283     </BIAS>
+ <RMSE>   8.32700506E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10309 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.234435782     </BIAS>
+ <RMSE>  0.557753205     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10309 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.270820677     </BIAS>
+ <RMSE>  0.419097781     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.84403656E-02 </MEAN_OBS>
+ <STDV_OBS>   1.23847961     </STDV_OBS>
+ <EXP>
+ <ID>       10312 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.178867564     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.44552934     </BIAS>
+ <RMSE>  0.986492634     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10312 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.03129804     </BIAS>
+ <RMSE>  0.909620106     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10312 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.13788855     </BIAS>
+ <RMSE>  0.437235147     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.83486228E-03 </MEAN_OBS>
+ <STDV_OBS>  0.508507371     </STDV_OBS>
+ <EXP>
+ <ID>       10325 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   3.91608812E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.667943537     </BIAS>
+ <RMSE>  -1.14488816E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10325 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.613239110     </BIAS>
+ <RMSE>  0.485969365     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10325 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.507656932     </BIAS>
+ <RMSE>  -1.04214381E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.18646991     </STDV_OBS>
+ <EXP>
+ <ID>       10348 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.195453331     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.926614106     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10348 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.21024823     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10348 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.18374562     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.01834850E-02 </MEAN_OBS>
+ <STDV_OBS>   2.97401047     </STDV_OBS>
+ <EXP>
+ <ID>       10359 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.325834483     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.48511291     </BIAS>
+ <RMSE>  0.649181426     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10359 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.537397861     </BIAS>
+ <RMSE>  0.584177196     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10359 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   2.95834517     </BIAS>
+ <RMSE>   9.66248885E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.428440452     </MEAN_OBS>
+ <STDV_OBS>  0.296863556     </STDV_OBS>
+ <EXP>
+ <ID>       10368 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.40904829E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   2.07603931     </BIAS>
+ <RMSE>  0.226959094     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10368 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.74295080     </BIAS>
+ <RMSE>   9.13567841E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10368 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.63709366     </BIAS>
+ <RMSE>  0.453281373     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.161467865     </MEAN_OBS>
+ <STDV_OBS>  0.979517758     </STDV_OBS>
+ <EXP>
+ <ID>       10396 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.171176448     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.750350475     </BIAS>
+ <RMSE>   8.98563564E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10396 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.988305688     </BIAS>
+ <RMSE>   3.88756022E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10396 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.04307449     </BIAS>
+ <RMSE>  0.161777139     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.84403656E-02 </MEAN_OBS>
+ <STDV_OBS>  0.263919473     </STDV_OBS>
+ <EXP>
+ <ID>       10424 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   3.39219570E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.33923042     </BIAS>
+ <RMSE>   1.02278236E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10424 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.454166025     </BIAS>
+ <RMSE>   8.41725152E-04 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10424 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.266032219     </BIAS>
+ <RMSE>  0.551987827     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.86915882E-03 </MEAN_OBS>
+ <STDV_OBS>   4.85432632E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10433 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   4.96919500E-03 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.838734388     </BIAS>
+ <RMSE>  -1.58802196E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10433 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.126810551     </BIAS>
+ <RMSE>  -1.35537218E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10433 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   5.04721217E-02 </BIAS>
+ <RMSE>  -1.41610159E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.17431153E-03 </MEAN_OBS>
+ <STDV_OBS>  0.681602418     </STDV_OBS>
+ <EXP>
+ <ID>       10435 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.08426966E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.825556576     </BIAS>
+ <RMSE>  -1.74401440E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10435 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.461495459     </BIAS>
+ <RMSE>  -1.54590039E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10435 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.684156477     </BIAS>
+ <RMSE>  -1.22320382E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.124770641     </MEAN_OBS>
+ <STDV_OBS>  0.574178994     </STDV_OBS>
+ <EXP>
+ <ID>       10442 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   7.39000291E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.09672523     </BIAS>
+ <RMSE>   7.73104653E-03 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10442 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.829088867     </BIAS>
+ <RMSE>  0.630914867     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10442 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.603878915     </BIAS>
+ <RMSE>  0.700394332     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.26796696E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10444 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   2.38508033E-03 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.116171420     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10444 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.460628152     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10444 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   3.26046310E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.14285722E-02 </MEAN_OBS>
+ <STDV_OBS>   1.20384014     </STDV_OBS>
+ <EXP>
+ <ID>       10452 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>  0.182858959     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.74494910     </BIAS>
+ <RMSE>  0.128686920     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10452 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.73934269     </BIAS>
+ <RMSE>  0.146198764     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10452 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.18643379     </BIAS>
+ <RMSE>  0.210316226     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.30275185E-02 </MEAN_OBS>
+ <STDV_OBS>  0.907208622     </STDV_OBS>
+ <EXP>
+ <ID>       10454 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.140462533     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.826870084     </BIAS>
+ <RMSE>  0.264183491     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10454 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.96761668     </BIAS>
+ <RMSE>   2.18861662E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10454 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.898177624     </BIAS>
+ <RMSE>  0.130452171     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.11214940E-02 </MEAN_OBS>
+ <STDV_OBS>  0.520408809     </STDV_OBS>
+ <EXP>
+ <ID>       10458 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.26092702E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.06462717     </BIAS>
+ <RMSE>  0.193988129     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10458 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.493112236     </BIAS>
+ <RMSE>  0.379541397     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10458 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.512463689     </BIAS>
+ <RMSE>  0.199126258     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.226168230     </MEAN_OBS>
+ <STDV_OBS>  0.307628632     </STDV_OBS>
+ <EXP>
+ <ID>       10474 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   3.20514068E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.58236575     </BIAS>
+ <RMSE>   5.08338511E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10474 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.44664204     </BIAS>
+ <RMSE>  0.151528388     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10474 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.35520411     </BIAS>
+ <RMSE>  -6.10398874E-03 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.97196382E-02 </MEAN_OBS>
+ <STDV_OBS>   5.32034077E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10490 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   1.12167774E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.23722303     </BIAS>
+ <RMSE>  -1.63663793E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10490 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.683381557     </BIAS>
+ <RMSE>  -9.05444100E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10490 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.574845374     </BIAS>
+ <RMSE>   1.26424581E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.67289705E-03 </MEAN_OBS>
+ <STDV_OBS>   1.18201468E-02 </STDV_OBS>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   2.10941909E-03 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   3.26108485E-02 </BIAS>
+ <RMSE>  -2.85548735E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.128765881     </BIAS>
+ <RMSE>  -1.48097165E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   3.27340923E-02 </BIAS>
+ <RMSE>  -2.76674349E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.131775707     </MEAN_OBS>
+ <STDV_OBS>   1.48294830     </STDV_OBS>
+ <EXP>
+ <ID>       10381 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  0.133228064     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.79744005     </BIAS>
+ <RMSE>   5.63687936E-04 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10381 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.25068283     </BIAS>
+ <RMSE>   1.48519147E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10381 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.75920987     </BIAS>
+ <RMSE>  -2.61799875E-03 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.99082571E-02 </MEAN_OBS>
+ <STDV_OBS>  0.194572121     </STDV_OBS>
+ <EXP>
+ <ID>       10046 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   2.27904394E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.752212465     </BIAS>
+ <RMSE>   3.32002318E-03 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10046 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.666060865     </BIAS>
+ <RMSE>   7.38334060E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10046 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.676631987     </BIAS>
+ <RMSE>   4.82554659E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.468959004     </STDV_OBS>
+ <EXP>
+ <ID>       10338 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   4.56920862E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   2.91350651     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10338 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.967608094     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10338 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.467882156     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.315596282     </MEAN_OBS>
+ <STDV_OBS>   1.53961742     </STDV_OBS>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.241898626     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.29744160     </BIAS>
+ <RMSE>  0.781297266     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.67042053     </BIAS>
+ <RMSE>  0.569737434     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.15925658     </BIAS>
+ <RMSE>  0.819904983     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.40366901E-02 </MEAN_OBS>
+ <STDV_OBS>  0.520464361     </STDV_OBS>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.80576637E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.235603198     </BIAS>
+ <RMSE>  0.329306990     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.246921793     </BIAS>
+ <RMSE>  0.638887405     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.423563480     </BIAS>
+ <RMSE>  0.626221120     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.185321093     </MEAN_OBS>
+ <STDV_OBS>  0.314884752     </STDV_OBS>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   4.07985635E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.72175825     </BIAS>
+ <RMSE>  0.309718043     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.97036338     </BIAS>
+ <RMSE>  0.194491103     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.05104494     </BIAS>
+ <RMSE>  0.299852043     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.63551539E-02 </MEAN_OBS>
+ <STDV_OBS>  0.479255646     </STDV_OBS>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   5.79349361E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.64285493     </BIAS>
+ <RMSE>   6.85623139E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.662538707     </BIAS>
+ <RMSE>  0.103867933     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.546586692     </BIAS>
+ <RMSE>   3.37959453E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.139449537     </MEAN_OBS>
+ <STDV_OBS>  0.269589871     </STDV_OBS>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   3.31762247E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.55038059     </BIAS>
+ <RMSE>   3.34198773E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.982467294     </BIAS>
+ <RMSE>   1.02767590E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.708561003     </BIAS>
+ <RMSE>   9.99266654E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.33027256E-02 </MEAN_OBS>
+ <STDV_OBS>   1.42926931     </STDV_OBS>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   9.98425484E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.579485655     </BIAS>
+ <RMSE>  -2.66074557E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.196982160     </BIAS>
+ <RMSE>  -2.86545735E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.44379699     </BIAS>
+ <RMSE>  -2.24043261E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.136448622     </MEAN_OBS>
+ <STDV_OBS>  0.497431338     </STDV_OBS>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   9.43478197E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.907449722     </BIAS>
+ <RMSE>  0.232151553     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.956014216     </BIAS>
+ <RMSE>  0.341439754     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.918274641     </BIAS>
+ <RMSE>   8.26858804E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.269724786     </MEAN_OBS>
+ <STDV_OBS>  0.538190842     </STDV_OBS>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   8.87391865E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.51478994     </BIAS>
+ <RMSE>  0.110071048     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.27899063     </BIAS>
+ <RMSE>  0.361763149     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.20736861     </BIAS>
+ <RMSE>  0.481010526     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.205504507     </MEAN_OBS>
+ <STDV_OBS>   1.23186898     </STDV_OBS>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.231674865     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.64603972     </BIAS>
+ <RMSE>  0.348555624     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.66483545     </BIAS>
+ <RMSE>   1.98874865E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.37735844     </BIAS>
+ <RMSE>   8.09735432E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.04587255E-02 </MEAN_OBS>
+ <STDV_OBS>  0.106073894     </STDV_OBS>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   2.04539429E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.449496180     </BIAS>
+ <RMSE>  0.349814087     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.815472066     </BIAS>
+ <RMSE>  0.171391919     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.236106560     </BIAS>
+ <RMSE>  0.498258322     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.87155931E-02 </MEAN_OBS>
+ <STDV_OBS>   1.34839308     </STDV_OBS>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.102932915     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   2.60901785     </BIAS>
+ <RMSE>   2.61456100E-03 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.14255142     </BIAS>
+ <RMSE>   1.56020708E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.37983263     </BIAS>
+ <RMSE>   2.69918772E-03 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.130841121     </MEAN_OBS>
+ <STDV_OBS>   1.42176843     </STDV_OBS>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  0.194368109     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.800422549     </BIAS>
+ <RMSE>  0.619899690     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.687533200     </BIAS>
+ <RMSE>  0.576221287     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.21607971     </BIAS>
+ <RMSE>  0.536020398     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.262843996     </MEAN_OBS>
+ <STDV_OBS>  0.582652628     </STDV_OBS>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.117572777     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.24893248     </BIAS>
+ <RMSE>  0.532996297     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.10278928     </BIAS>
+ <RMSE>  0.619246244     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.01005936     </BIAS>
+ <RMSE>  0.750758469     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.33944913E-03 </MEAN_OBS>
+ <STDV_OBS>  0.587489605     </STDV_OBS>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.27525374E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   8.41418505E-02 </BIAS>
+ <RMSE>  0.479034960     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.135653242     </BIAS>
+ <RMSE>   4.81467061E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.586396992     </BIAS>
+ <RMSE>   2.99234409E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.87156080E-02 </MEAN_OBS>
+ <STDV_OBS>   1.87550735     </STDV_OBS>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.323728889     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.16857159     </BIAS>
+ <RMSE>  0.790289104     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.296047568     </BIAS>
+ <RMSE>  0.287162155     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.73192906     </BIAS>
+ <RMSE>  0.739779770     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.172477081     </MEAN_OBS>
+ <STDV_OBS>   1.48563433     </STDV_OBS>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.212548256     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.858709335     </BIAS>
+ <RMSE>  0.647901595     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.896509349     </BIAS>
+ <RMSE>  0.659253657     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.23652208     </BIAS>
+ <RMSE>  0.558591604     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.315887749     </MEAN_OBS>
+ <STDV_OBS>  0.721355379     </STDV_OBS>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.05792217E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.36910522     </BIAS>
+ <RMSE>  0.517457128     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.07668734     </BIAS>
+ <RMSE>  0.656024277     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.23330724     </BIAS>
+ <RMSE>  0.466061294     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.216513708     </MEAN_OBS>
+ <STDV_OBS>  0.329075515     </STDV_OBS>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   3.14092897E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.17964208     </BIAS>
+ <RMSE>   2.88535729E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.47461379     </BIAS>
+ <RMSE>   7.48071671E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.18321502     </BIAS>
+ <RMSE>   1.20042684E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.97247684E-02 </MEAN_OBS>
+ <STDV_OBS>  0.426468819     </STDV_OBS>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.74054697E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.759925306     </BIAS>
+ <RMSE>  0.361995965     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.689096332     </BIAS>
+ <RMSE>  0.531706631     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.634235203     </BIAS>
+ <RMSE>  0.633717597     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.106422037     </MEAN_OBS>
+ <STDV_OBS>  0.501020730     </STDV_OBS>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   5.64475507E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.68102145     </BIAS>
+ <RMSE>  0.925408602     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.596550822     </BIAS>
+ <RMSE>  0.367002398     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.733990252     </BIAS>
+ <RMSE>   3.82050350E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.148623854     </MEAN_OBS>
+ <STDV_OBS>  0.282680184     </STDV_OBS>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   4.28388193E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.873031080     </BIAS>
+ <RMSE>  -2.46607722E-03 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.840328217     </BIAS>
+ <RMSE>  0.398621470     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.865938306     </BIAS>
+ <RMSE>   8.76770765E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.91588745E-02 </MEAN_OBS>
+ <STDV_OBS>  0.287826389     </STDV_OBS>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   3.13276649E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.29866135     </BIAS>
+ <RMSE>  0.135262221     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.56170261     </BIAS>
+ <RMSE>   3.25872377E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.284447998     </BIAS>
+ <RMSE>  0.326714784     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.66972461E-02 </MEAN_OBS>
+ <STDV_OBS>  0.675932169     </STDV_OBS>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.68138191E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.36519885     </BIAS>
+ <RMSE>  0.662409246     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.96132457     </BIAS>
+ <RMSE>  0.757840812     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.597243369     </BIAS>
+ <RMSE>  0.534429312     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.108256884     </MEAN_OBS>
+ <STDV_OBS>  0.148008749     </STDV_OBS>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   2.43804790E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.506870568     </BIAS>
+ <RMSE>  0.378059685     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.375439316     </BIAS>
+ <RMSE>  0.302836359     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.368545860     </BIAS>
+ <RMSE>  0.265051097     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.127102822     </MEAN_OBS>
+ <STDV_OBS>  0.358421922     </STDV_OBS>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.92257434E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.733252823     </BIAS>
+ <RMSE>  0.507638454     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.718575776     </BIAS>
+ <RMSE>  0.609669030     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.810953259     </BIAS>
+ <RMSE>  0.230655372     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.254368901     </MEAN_OBS>
+ <STDV_OBS>  0.638934016     </STDV_OBS>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         206 </NUM>
+ <MEAN>  0.113740273     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.38435245     </BIAS>
+ <RMSE>  0.130829737     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         206 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.08476615     </BIAS>
+ <RMSE>  0.541265309     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         206 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.00768256     </BIAS>
+ <RMSE>  0.641323507     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.61904791E-02 </MEAN_OBS>
+ <STDV_OBS>   1.27379739     </STDV_OBS>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>  0.210245594     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.747645736     </BIAS>
+ <RMSE>  0.581126869     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.41700840     </BIAS>
+ <RMSE>  0.730827510     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.04599214     </BIAS>
+ <RMSE>  0.685807765     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.150458649     </MEAN_OBS>
+ <STDV_OBS>   1.84543502     </STDV_OBS>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.321957439     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.71387935     </BIAS>
+ <RMSE>  0.158834100     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.53075051     </BIAS>
+ <RMSE>  0.180261835     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.84360218     </BIAS>
+ <RMSE>  0.226239786     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.240366966     </MEAN_OBS>
+ <STDV_OBS>   1.04904664     </STDV_OBS>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.155837461     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.21870589     </BIAS>
+ <RMSE>  0.187667727     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.23310792     </BIAS>
+ <RMSE>  0.152199581     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.30166268     </BIAS>
+ <RMSE>  0.183571294     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.275229335     </MEAN_OBS>
+ <STDV_OBS>   1.05672264     </STDV_OBS>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.170629859     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.972782195     </BIAS>
+ <RMSE>  0.592814982     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.15465903     </BIAS>
+ <RMSE>  0.549247742     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.943560958     </BIAS>
+ <RMSE>  0.592720091     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.122935779     </MEAN_OBS>
+ <STDV_OBS>   1.07264948     </STDV_OBS>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.140089735     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.06277812     </BIAS>
+ <RMSE>  -4.19638492E-03 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.13951778     </BIAS>
+ <RMSE>   1.34029081E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.30214345     </BIAS>
+ <RMSE>   5.74088916E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.127102792     </MEAN_OBS>
+ <STDV_OBS>   1.13853788     </STDV_OBS>
+ <EXP>
+ <ID>       10379 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  0.203861669     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.60650671     </BIAS>
+ <RMSE>  -1.98638551E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10379 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.16286147     </BIAS>
+ <RMSE>  0.252658188     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10379 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.34570396     </BIAS>
+ <RMSE>   4.71929461E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.359813154     </MEAN_OBS>
+ <STDV_OBS>   1.85992694     </STDV_OBS>
+ <EXP>
+ <ID>       10268 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  0.332105607     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   2.54530191     </BIAS>
+ <RMSE>  0.183546335     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10268 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.85216749     </BIAS>
+ <RMSE>  0.328037471     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10268 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   2.06971073     </BIAS>
+ <RMSE>  0.303535312     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.135513991     </MEAN_OBS>
+ <STDV_OBS>   1.27266264     </STDV_OBS>
+ <EXP>
+ <ID>       10271 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  0.218765989     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   5.18015957     </BIAS>
+ <RMSE>  0.318422019     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10271 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.73038781     </BIAS>
+ <RMSE>   7.21937940E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10271 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.39774632     </BIAS>
+ <RMSE>  -1.44608449E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.165137589     </MEAN_OBS>
+ <STDV_OBS>   1.00533509     </STDV_OBS>
+ <EXP>
+ <ID>       10365 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.136569425     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.06865942     </BIAS>
+ <RMSE>  0.116028413     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10365 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.43162191     </BIAS>
+ <RMSE>   6.26908690E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10365 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.00113428     </BIAS>
+ <RMSE>  0.415853977     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.184112087     </MEAN_OBS>
+ <STDV_OBS>  0.589642167     </STDV_OBS>
+ <EXP>
+ <ID>       10385 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   7.92542398E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.60376763     </BIAS>
+ <RMSE>  -2.07209215E-02 </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10385 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.19328904     </BIAS>
+ <RMSE>  -7.65891222E-04 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10385 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>   1.32762671     </BIAS>
+ <RMSE>  -1.44303273E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.167889893     </MEAN_OBS>
+ <STDV_OBS>   7.87437558E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10091 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   2.02881638E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.965732634     </BIAS>
+ <RMSE>  0.106031246     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10091 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.834964871     </BIAS>
+ <RMSE>   1.70398671E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10091 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.824819863     </BIAS>
+ <RMSE>   1.80754438E-02 </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.60550520E-02 </MEAN_OBS>
+ <STDV_OBS>   1.22516155     </STDV_OBS>
+ <EXP>
+ <ID>        6051 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>  0.197693661     </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.784154356     </BIAS>
+ <RMSE>  0.393247306     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6051 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.327650189     </BIAS>
+ <RMSE>  0.656255662     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6051 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.986800551     </BIAS>
+ <RMSE>  0.691169381     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.375780791     </STDV_OBS>
+ <EXP>
+ <ID>        6080 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   3.83504145E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>  0.353544950     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6080 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.171552628     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6080 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.374917924     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.58715577E-03 </MEAN_OBS>
+ <STDV_OBS>  0.915237248     </STDV_OBS>
+ <EXP>
+ <ID>       10321 </ID>
+ <NAME>Prod_EC</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   8.87149796E-02 </MEAN>
+ <STDV>  -250.473877     </STDV>
+ <BIAS>   1.25617337     </BIAS>
+ <RMSE>  0.320868433     </RMSE>
+ <CORR>  -250.674561     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10321 </ID>
+ <NAME>cyc_2h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.41652930     </BIAS>
+ <RMSE>  0.277639508     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10321 </ID>
+ <NAME>cyc_3h</NAME>
+ <NUM>         218 </NUM>
+ <MEAN>   6.82660147E-38 </MEAN>
+ <STDV>   6.82660147E-38 </STDV>
+ <BIAS>  0.904361427     </BIAS>
+ <RMSE>  0.323363662     </RMSE>
+ <CORR>   6.82660147E-38 </CORR>
+ </EXP>
+ </STATION>
+</STAT>
